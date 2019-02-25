@@ -2,5 +2,11 @@
   "name": "@vessel/fs-upload-storage",
   "version": "0.0.0",
   "author": "Gui Prá (super.driver.512@gmail.com)",
-  "license": "AGPL-3.0+"
+  "license": "AGPL-3.0+",
+  "devDependencies": {
+    "through2": "^3.0.0"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
